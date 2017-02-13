@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=rfq
+comment0.target=ModifyXml(RequestForQuote)
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=rfq
+comment1.target=void\ setRequestForQuote(RequestForQuote)
+comment1.text=\r\n\ Set\ rfq\r\n\ @param\ RequestForQuote\ rfq\r\n
+comment2.params=
+comment2.target=RequestForQuote\ getRequestForQuote()
+comment2.text=\r\n\ Return\ rfq\r\n\ @return\ RequestForQuote\ rfq\r\n
+comment3.params=
+comment3.target=boolean\ setElementData()
+comment3.text=\r\n\ Modify\ element\r\n\ @param\ String\ elementName\r\n\ @param\ String\ newValue\r\n\ @return\ boolean\ pass\r\n
+numComments=4

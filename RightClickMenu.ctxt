@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=type\ comp\ master
+comment0.target=RightClickMenu(java.lang.String,\ java.awt.Component,\ ProgramWindow)
+comment1.params=comp
+comment1.target=void\ buildNotesMenu(java.awt.Component)
+comment2.params=
+comment2.target=void\ buildMainMenu()
+comment3.params=text
+comment3.target=javax.swing.JMenuItem\ buildMenuItem(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getClipboardData()
+comment5.params=data
+comment5.target=void\ setClipboardData(java.lang.String)
+comment6.params=
+comment6.target=java.awt.Component\ getComp()
+numComments=7

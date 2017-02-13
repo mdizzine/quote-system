@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ErrorLogger()
+comment1.params=errorMessage
+comment1.target=void\ writeError(java.lang.String)
+comment2.params=code
+comment2.target=java.lang.String\ buildErrorString(int)
+comment3.params=code
+comment3.target=java.lang.String\ getErrorMessage(int)
+numComments=4
