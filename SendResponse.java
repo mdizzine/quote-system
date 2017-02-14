@@ -18,7 +18,7 @@ public class SendResponse{
      */
     public SendResponse(String firstName, String lastName, String email, String turnaroundDate, String expirationDate, String salesPerson, String cartUrl){
         returnValue = "";
-        String url = "https://floating-fortress-7484.herokuapp.com/rfq/rfqResponse.php";
+        String url = "INSERT POST URL";
         //needs params for email
         //name
         //email address

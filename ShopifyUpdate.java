@@ -18,7 +18,7 @@ public class ShopifyUpdate{
      */
     public ShopifyUpdate(String input){
         returnValue = "";
-        String url = "https://floating-fortress-7484.herokuapp.com/rfq/rfqUpdate.php";
+        String url = "INSERT POST URL HERE";
         String postParams = "data=" + input;
         try{
             URL obj = new URL(url);
